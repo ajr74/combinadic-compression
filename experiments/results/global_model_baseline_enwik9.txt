@@ -1,0 +1,6 @@
+data/enwik9: 1000000000 bytes, alphabet 206, global H0=5.1565 bits/byte (entropy floor 0.6446)
+   N=  512: global-model order-0 fraction = 0.6494
+   N= 1024: global-model order-0 fraction = 0.6470
+   N= 2048: global-model order-0 fraction = 0.6458
+   N= 4096: global-model order-0 fraction = 0.6452
+   N= 8192: global-model order-0 fraction = 0.6449

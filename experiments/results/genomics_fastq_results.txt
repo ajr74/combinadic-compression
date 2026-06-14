@@ -1,0 +1,6 @@
+genomics constrained-alphabet test  (codec block N=1024, jobs=8)
+fraction = compressed_bytes / original_bytes;  2-bit pack = 0.2500 reference floor
+
+file                             orig          codec   c.frac         gzip-9   g.frac
+SRR2627175_1.seq            539689124      138638310   0.2569      150630094   0.2791
+ERR006177_1.seq             278608705       67870524   0.2436       70208777   0.2520

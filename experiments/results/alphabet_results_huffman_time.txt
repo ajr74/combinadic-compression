@@ -1,0 +1,6 @@
+A    ajz N=1024     ajz N=4096     Huffman     
+2    244 MB/s       78 MB/s        1695 MB/s   
+4    179 MB/s       48 MB/s        1497 MB/s   
+16   185 MB/s       57 MB/s        924 MB/s    
+64   173 MB/s       105 MB/s       1580 MB/s   
+256  135 MB/s       132 MB/s       1225 MB/s   

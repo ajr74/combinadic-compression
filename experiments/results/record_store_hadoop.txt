@@ -1,0 +1,8 @@
+input: data/records_hadoop_ts.bin
+records: 180897 x 23 bytes = 4160631 bytes total, jobs: 8
+
+method (per-record access?) bytes          fraction  
+codec, stream     (yes)    3348352        0.8048    
+codec, per-record (yes)    4447452        1.0689    
+gzip -9, whole    (NO)     449979         0.1082    
+gzip -9, per record (yes)  7771606        1.8679      (est. from 2000-record sample)

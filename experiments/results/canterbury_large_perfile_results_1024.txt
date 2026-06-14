@@ -1,0 +1,6 @@
+file             bytes        this work  kanzi Huf 
+bible.txt        4047392      0.5688     0.5874    
+E.coli           4638690      0.2561     0.2787    
+world192.txt     2473400      0.6562     0.6648    
+
+TOTAL            11159482     0.4582     0.4762    
