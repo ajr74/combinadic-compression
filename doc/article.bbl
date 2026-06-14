@@ -1,0 +1,215 @@
+\begin{thebibliography}{999}
+
+\bibitem[Ziv and Lempel(1977)]{ziv1977}
+Ziv, J.; Lempel, A.
+\newblock A Universal Algorithm for Sequential Data Compression.
+\newblock {\em IEEE Transactions on Information Theory} {\bf 1977}, {\em
+  23},~337--343.
+\newblock {\url{https://doi.org/10.1109/TIT.1977.1055714}}.
+
+\bibitem[Ziv and Lempel(1978)]{ziv1978}
+Ziv, J.; Lempel, A.
+\newblock Compression of Individual Sequences via Variable-Rate Coding.
+\newblock {\em IEEE Transactions on Information Theory} {\bf 1978}, {\em
+  24},~530--536.
+\newblock {\url{https://doi.org/10.1109/TIT.1978.1055934}}.
+
+\bibitem[Burrows and Wheeler(1994)]{burrows1994}
+Burrows, M.; Wheeler, D.J.
+\newblock A Block-Sorting Lossless Data Compression Algorithm.
+\newblock Technical Report 124, Digital Equipment Corporation Systems Research
+  Center,  1994.
+
+\bibitem[Cleary and Witten(1984)]{cleary1984}
+Cleary, J.G.; Witten, I.H.
+\newblock Data Compression Using Adaptive Coding and Partial String Matching.
+\newblock {\em IEEE Transactions on Communications} {\bf 1984}, {\em
+  32},~396--402.
+\newblock {\url{https://doi.org/10.1109/TCOM.1984.1096090}}.
+
+\bibitem[Huffman(1952)]{huffman1952}
+Huffman, D.A.
+\newblock A Method for the Construction of Minimum-Redundancy Codes.
+\newblock {\em Proceedings of the IRE} {\bf 1952}, {\em 40},~1098--1101.
+\newblock {\url{https://doi.org/10.1109/JRPROC.1952.273898}}.
+
+\bibitem[Witten et~al.(1987)Witten, Neal, and Cleary]{witten1987arithmetic}
+Witten, I.H.; Neal, R.M.; Cleary, J.G.
+\newblock Arithmetic coding for data compression.
+\newblock {\em Communications of the ACM} {\bf 1987}, {\em 30},~520--540.
+\newblock {\url{https://doi.org/10.1145/214762.214771}}.
+
+\bibitem[Martin(1979)]{martin1979}
+Martin, G.N.N.
+\newblock Range Encoding: An Algorithm for Removing Redundancy from a Digitised
+  Message.
+\newblock In Proceedings of the Video and Data Recording Conference,
+  Southampton, UK,  1979.
+
+\bibitem[Duda(2013)]{duda2013ans}
+Duda, J.
+\newblock Asymmetric numeral systems: entropy coding combining speed of
+  {Huffman} coding with compression rate of arithmetic coding.
+\newblock {\em arXiv preprint arXiv:1311.2540} {\bf 2013}.
+
+\bibitem[Cover(1973)]{cover1973enumerative}
+Cover, T.M.
+\newblock Enumerative source encoding.
+\newblock {\em IEEE Transactions on Information Theory} {\bf 1973}, {\em
+  19},~73--77.
+\newblock {\url{https://doi.org/10.1109/TIT.1973.1054929}}.
+
+\bibitem[Lynch(1966)]{lynch1966}
+Lynch, T.J.
+\newblock Sequence time coding for data compression.
+\newblock {\em Proceedings of the IEEE} {\bf 1966}, {\em 54},~1490--1491.
+\newblock {\url{https://doi.org/10.1109/PROC.1966.5167}}.
+
+\bibitem[Schalkwijk(1972)]{schalkwijk1972}
+Schalkwijk, J.P.M.
+\newblock An algorithm for source coding.
+\newblock {\em IEEE Transactions on Information Theory} {\bf 1972}, {\em
+  18},~395--399.
+\newblock {\url{https://doi.org/10.1109/TIT.1972.1054832}}.
+
+\bibitem[Rissanen(1976)]{rissanen1976}
+Rissanen, J.J.
+\newblock Generalized {Kraft} inequality and arithmetic coding.
+\newblock {\em IBM Journal of Research and Development} {\bf 1976}, {\em
+  20},~198--203.
+\newblock {\url{https://doi.org/10.1147/rd.203.0198}}.
+
+\bibitem[Borysenko et~al.(2021)Borysenko, Matsenko, and
+  Bobrovs]{borysenko2021bns}
+Borysenko, O.; Matsenko, S.; Bobrovs, V.
+\newblock Binomial Number System.
+\newblock {\em Applied Sciences} {\bf 2021}, {\em 11},~11110.
+\newblock {\url{https://doi.org/10.3390/app112311110}}.
+
+\bibitem[Borysenko et~al.(2022)Borysenko, Matsenko, Salgals, Spolitis, and
+  Bobrovs]{borysenko2022adaptive}
+Borysenko, O.; Matsenko, S.; Salgals, T.; Spolitis, S.; Bobrovs, V.
+\newblock The Lossless Adaptive Binomial Data Compression Method.
+\newblock {\em Applied Sciences} {\bf 2022}, {\em 12},~9676.
+\newblock {\url{https://doi.org/10.3390/app12199676}}.
+
+\bibitem[Kulyk et~al.(2025)Kulyk, Shevchenko, Grynenko, and
+  Hermes]{kulyk2025speedup}
+Kulyk, I.; Shevchenko, M.; Grynenko, V.; Hermes, M.
+\newblock Speeding up Binomial Compression Based on Binary Binomial Numbers.
+\newblock {\em Eastern-European Journal of Enterprise Technologies} {\bf 2025},
+  {\em 4},~26--33.
+\newblock {\url{https://doi.org/10.15587/1729-4061.2025.335729}}.
+
+\bibitem[Raman et~al.(2002)Raman, Raman, and Rao]{raman2002succinct}
+Raman, R.; Raman, V.; Rao, S.S.
+\newblock Succinct indexable dictionaries with applications to encoding $k$-ary
+  trees and multisets.
+\newblock In Proceedings of the Proceedings of the 13th Annual ACM-SIAM
+  Symposium on Discrete Algorithms (SODA),  2002, pp. 233--242.
+
+\bibitem[Grangetto et~al.(2006)Grangetto, Magli, and Olmo]{grangetto2006rac}
+Grangetto, M.; Magli, E.; Olmo, G.
+\newblock Multimedia selective encryption by means of randomized arithmetic
+  coding.
+\newblock {\em IEEE Transactions on Multimedia} {\bf 2006}, {\em 8},~905--917.
+\newblock {\url{https://doi.org/10.1109/TMM.2006.879919}}.
+
+\bibitem[Bellare et~al.(2010)Bellare, Rogaway, and Spies]{bellare2010ffx}
+Bellare, M.; Rogaway, P.; Spies, T.
+\newblock The {FFX} Mode of Operation for Format-Preserving Encryption,  2010.
+\newblock Submission to NIST.
+
+\bibitem[Dworkin(2016)]{dworkin2016fpe}
+Dworkin, M.J.
+\newblock Recommendation for Block Cipher Modes of Operation: Methods for
+  Format-Preserving Encryption.
+\newblock Technical Report NIST Special Publication 800-38G, National Institute
+  of Standards and Technology,  2016.
+\newblock {\url{https://doi.org/10.6028/NIST.SP.800-38G}}.
+
+\bibitem[Black and Rogaway(2002)]{black2002arbitrary}
+Black, J.; Rogaway, P.
+\newblock Ciphers with Arbitrary Finite Domains.
+\newblock In Proceedings of the Topics in Cryptology --- CT-RSA 2002. Springer,
+   2002, Vol. 2271, {\em Lecture Notes in Computer Science}, pp. 114--130.
+\newblock {\url{https://doi.org/10.1007/3-540-45760-7_9}}.
+
+\bibitem[Durak and Vaudenay(2017)]{durak2017ff3}
+Durak, F.B.; Vaudenay, S.
+\newblock Breaking the {FF3} Format-Preserving Encryption Standard over Small
+  Domains.
+\newblock In Proceedings of the Advances in Cryptology --- CRYPTO 2017.
+  Springer,  2017, Vol. 10402, {\em Lecture Notes in Computer Science}, pp.
+  679--707.
+\newblock {\url{https://doi.org/10.1007/978-3-319-63715-0_23}}.
+
+\bibitem[Beyne(2021)]{beyne2021ff31}
+Beyne, T.
+\newblock Linear Cryptanalysis of {FF3-1} and {FEA}.
+\newblock In Proceedings of the Advances in Cryptology --- CRYPTO 2021.
+  Springer,  2021, Vol. 12825, {\em Lecture Notes in Computer Science}, pp.
+  41--69.
+\newblock {\url{https://doi.org/10.1007/978-3-030-84242-0_3}}.
+
+\bibitem[Csisz{\'a}r(1998)]{csiszar1998types}
+Csisz{\'a}r, I.
+\newblock The Method of Types.
+\newblock {\em IEEE Transactions on Information Theory} {\bf 1998}, {\em
+  44},~2505--2523.
+\newblock {\url{https://doi.org/10.1109/18.720546}}.
+
+\bibitem[Kruchinin et~al.(2022)Kruchinin, Shablya, Kruchinin, and
+  Rulevskiy]{rulevskiy2022}
+Kruchinin, V.; Shablya, Y.; Kruchinin, D.; Rulevskiy, V.
+\newblock Unranking Small Combinations of a Large Set in Co-Lexicographic
+  Order.
+\newblock {\em Algorithms} {\bf 2022}, {\em 15},~36--45.
+\newblock {\url{https://doi.org/10.3390/a15020036}}.
+
+\bibitem[Collet()]{collet2022}
+Collet, Y.
+\newblock {xxHash}: Extremely Fast Non-Cryptographic Hash Algorithm.
+\newblock Available online: \url{https://github.com/Cyan4973/xxHash} (accessed
+  on 7 June 2026).
+
+\bibitem[Popa et~al.(2011)Popa, Redfield, Zeldovich, and
+  Balakrishnan]{popa2011cryptdb}
+Popa, R.A.; Redfield, C.M.S.; Zeldovich, N.; Balakrishnan, H.
+\newblock {CryptDB}: Protecting Confidentiality with Encrypted Query
+  Processing.
+\newblock In Proceedings of the Proceedings of the 23rd ACM Symposium on
+  Operating Systems Principles (SOSP),  2011, pp. 85--100.
+\newblock {\url{https://doi.org/10.1145/2043556.2043566}}.
+
+\bibitem[Naveed et~al.(2015)Naveed, Kamara, and Wright]{naveed2015inference}
+Naveed, M.; Kamara, S.; Wright, C.V.
+\newblock Inference Attacks on Property-Preserving Encrypted Databases.
+\newblock In Proceedings of the Proceedings of the 22nd ACM SIGSAC Conference
+  on Computer and Communications Security (CCS),  2015, pp. 644--655.
+\newblock {\url{https://doi.org/10.1145/2810103.2813651}}.
+
+\bibitem[Katz and Lindell(2020)]{katz2020modern}
+Katz, J.; Lindell, Y.
+\newblock {\em Introduction to Modern Cryptography}, 3rd ed.; Chapman and
+  Hall/CRC: Boca Raton, FL, USA,  2020.
+
+\bibitem[Granlund and {the GMP development team}()]{Granlund16}
+Granlund, T.; {the GMP development team}.
+\newblock {GNU MP}: The {GNU} Multiple Precision Arithmetic Library (6.3.0).
+\newblock Available online: \url{https://gmplib.org} (accessed on 7 June 2026).
+
+\bibitem[Langlet()]{langlet2011}
+Langlet, F.
+\newblock {Kanzi}: Lossless Data Compression.
+\newblock Available online: \url{https://github.com/flanglet/kanzi-go}
+  (accessed on 7 June 2026).
+
+\bibitem[Zhu et~al.(2023)Zhu, He, He, Liu, and Lyu]{loghub2023}
+Zhu, J.; He, S.; He, P.; Liu, J.; Lyu, M.R.
+\newblock Loghub: A Large Collection of System Log Datasets for {AI}-driven Log
+  Analytics.
+\newblock In Proceedings of the Proceedings of the IEEE International Symposium
+  on Software Reliability Engineering (ISSRE),  2023.
+
+\end{thebibliography}

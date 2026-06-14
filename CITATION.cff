@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it (and the accompanying paper)."
+title: "Combinadic Compression: reference implementation"
+abstract: >-
+  A lossless byte-stream codec based on enumerative (combinadic) coding: each
+  fixed-length block becomes a short tuple of finite-range integer fields
+  (per-symbol counts and colexicographic ranks). The same representation admits a
+  size-preserving, queryable joint compression-and-encryption mode.
+type: software
+authors:
+  - family-names: Rasmussen
+    given-names: "Anthony James"
+    orcid: "https://orcid.org/0009-0003-3924-319X"
+    affiliation: "Shack C Technologies"
+version: "1.0.0"
+date-released: "2026-06-14"
+license: MIT
+repository-code: "https://github.com/ajr74/combinadic-compression"
+keywords:
+  - lossless compression
+  - enumerative coding
+  - combinatorial number system
+  - colexicographic ranking
+  - size-preserving encryption
+preferred-citation:
+  type: article
+  title: "Combinadic Compression: An Order-0 Enumerative Byte-Stream Codec with Size-Preserving Encryption"
+  authors:
+    - family-names: Rasmussen
+      given-names: "Anthony J."
+      orcid: "https://orcid.org/0009-0003-3924-319X"
+  journal: "Entropy"
+  year: 2026
+  # add volume / article-number / doi once the paper is published
